@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>LoginPage</title>
+<title>MSCANADA</title>
 </head>
 <body bgcolor="#COCOCO">
 <form action="action_page.php" method="post">
