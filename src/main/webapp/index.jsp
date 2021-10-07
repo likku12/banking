@@ -2,7 +2,7 @@
 <head>
 <title>MSCANADA</title>
 </head>
-<body bgcolor="#FFF">
+<body bgcolor="#faebe7">
 <form action="action_page.php" method="post">
  
   <div class="container">
