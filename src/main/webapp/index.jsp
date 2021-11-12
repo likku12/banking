@@ -2,7 +2,7 @@
 <head>
 <title>MSCANADA</title>
 </head>
-<body>
+<body bgcolor="#FFF">
 <form action="action_page.php" method="post">
  
   <div class="container">
@@ -22,5 +22,6 @@
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
 </form>
+ <h3> Jenkins Sessions</h3>
 </body>
 </html>
